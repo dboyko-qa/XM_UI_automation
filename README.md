@@ -1,4 +1,4 @@
-# Sample UI test automation project for XM.com site
+# Sample UI test automation project for https://xm.com
 
 ## <a name="ToolsUsed">Tools Used</a>
 
